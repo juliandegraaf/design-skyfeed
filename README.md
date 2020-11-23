@@ -1,7 +1,8 @@
 # SkyFeed design
 
 ## Design presentation
-View the original designs here (use keyboard arrows for navigation):
+View the original designs here (use keyboard arrows for navigation):   
+(In this journey, the fictional SkyFeed user is BrendaTuckson).
 
 #### Desktop version https://invis.io/2SZA4QQRNMK
 
@@ -20,11 +21,11 @@ In the final designs I made sure there is space/room for cool future features! F
 **In summary, these pages were designed:**   
 * Homepage without being logged in
 * General feed when logged in (the feed of people you follow)
-* Your own feed
+* Your own feed (fuchsia name colour)
 * Comments (and sub comments)
-* Feed of somebody you don't follow (dark)
-* Feed of somebody you follow (green)
-* Feed of somebody you privately follow (blue)
+* Feed of somebody you don't follow (dark name colour)
+* Feed of somebody you follow (green name colour)
+* Feed of somebody you privately follow (blue name colour)
 * Notifications page
 * Saved posts page
 * And of course dark mode!
