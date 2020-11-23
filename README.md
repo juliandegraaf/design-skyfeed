@@ -34,7 +34,7 @@ In the final designs I made sure there is space/room for cool future features! F
 ![Invision](https://burojulian.nl/skyfeed/1a.png)
 
 ## Upload to Invision
-The designs were then uploaded to Invision, an application for showcasing and sharing prototypes. A nice feature on Invision is the *‘Inspect Mode’*. All the design layers were uploaded from Sketch to Invision, so all elements could be inspected by redsolver. Like colours, fonts, margins, paddings, and many more. And the best part is that it’s possible to copy all the CSS snippets in the designs. Which made the easier (and faster) to implement.
+The designs were then uploaded to Invision, an application for showcasing and sharing prototypes. A nice feature on Invision is the *‘Inspect Mode’*. All the design layers were uploaded from Sketch to Invision, so all elements could be inspected by redsolver. Like colours, fonts, margins, paddings, and many more. And the best part is that it’s possible to copy all the CSS snippets from the designs. Which made it easier (and faster) to implement.
 
 *The Inspect Mode in Invision*
 ![Invision](https://burojulian.nl/skyfeed/1b.png)
