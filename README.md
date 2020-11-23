@@ -2,7 +2,7 @@
 
 ## Design presentation
 View the original designs here (use keyboard arrows for navigation):   
-(In this journey, the fictional SkyFeed user is BrendaTuckson).
+(In this journey, you'll be the fictional SkyFeed user BrendaTuckson)
 
 #### Desktop version https://invis.io/2SZA4QQRNMK
 
